@@ -1,0 +1,5 @@
+.counters-buttons {padding:20px 0 0 0; display:flex; justify-content: center;}
+.counter-container {width:80%; margin:auto; display: flex; flex-direction: column;}
+.value {text-align: center;}
+h2 {text-align: center;}
+.in {margin:5px;}
